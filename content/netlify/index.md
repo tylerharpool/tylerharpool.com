@@ -15,7 +15,7 @@ My old Gatsby site was deployed using [Netlify](https://www.netlify.com), so I w
 * [Cloudflare Pages](https://www.getzola.org/documentation/deployment/cloudflare-pages/) 
 
 I found the instructions on Zola to be a little off. They make a reference to an image selection that as far as I can see doesn't exist. This screenshot shows what worked for this site.
-![14eba09adfae97ab2e02b53f1a5ee900.png](_resources/ebd807d073a643fabde6be92d18e1e2f.png)
+![14eba09adfae97ab2e02b53f1a5ee900.png](/_resources/ebd807d073a643fabde6be92d18e1e2f.png)
 
 We can also create a netlify.toml file in our root directory that Netlify will use when we push changes to our code.
 
