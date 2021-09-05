@@ -9,25 +9,25 @@ Ingredients: 12 items
 Original recipe yields 12 servings
 
 Ingredient Checklist
--     1 pound sweet Italian sausage
--     ¾ pound lean ground beef
--     ½ cup minced onion
--     2 cloves garlic, crushed
--     1 (28 ounce) can crushed tomatoes
--     2 (6 ounce) cans tomato paste
--     2 (6.5 ounce) cans canned tomato sauce
--     ½ cup water
--     2 tablespoons white sugar
--     1 ½ teaspoons dried basil leaves
--     ½ teaspoon fennel seeds
--     1 teaspoon Italian seasoning
--     1 ½ teaspoons salt, divided, or to taste
--     ¼ teaspoon ground black pepper
--     4 tablespoons chopped fresh parsley
--     12 lasagna noodles
--     16 ounces ricotta cheese
--     1 egg
--     ¾ pound mozzarella cheese, sliced
+-  1 pound sweet Italian sausage
+-  ¾ pound lean ground beef
+-  ½ cup minced onion
+-  2 cloves garlic, crushed
+-  1 (28 ounce) can crushed tomatoes
+-  2 (6 ounce) cans tomato paste
+-  2 (6.5 ounce) cans canned tomato sauce
+-  ½ cup water
+-  2 tablespoons white sugar
+-  1 ½ teaspoons dried basil leaves
+-  ½ teaspoon fennel seeds
+-  1 teaspoon Italian seasoning
+-  1 ½ teaspoons salt, divided, or to taste
+-  ¼ teaspoon ground black pepper
+-  4 tablespoons chopped fresh parsley
+-  12 lasagna noodles
+-  16 ounces ricotta cheese
+-  1 egg
+-  ¾ pound mozzarella cheese, sliced
 -  ¾ cup grated Parmesan cheese
 
 
