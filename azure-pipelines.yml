@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: docker run -it --name test-pipeline .
+- script: zola build
   displayName: 'Run a one-line script'
 
 - script: |
